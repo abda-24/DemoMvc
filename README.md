@@ -2,7 +2,7 @@
 
 This is a comprehensive **ASP.NET MVC** application that provides full **CRUD operations**, **Authentication**, **Authorization**, **Role-based access control**, and a structured **UI layout** for managing departments and users within an organization.
 
-## 📌 Features
+📌 Features
 
 - 🔐 **Authentication & Authorization**
   - Secure login & logout
@@ -43,18 +43,4 @@ This is a comprehensive **ASP.NET MVC** application that provides full **CRUD op
 - LINQ
 - Visual Studio
 
----
 
-## 📷 Screenshots
-
-> _You can add screenshots of your UI here for better visualization_
-
----
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Visual Studio 2022 or later
-- SQL Server / LocalDB
-- .NET
